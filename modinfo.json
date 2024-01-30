@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "grimdark",
+    "name": "Grimdark Woods",
+    "authors": [ "mythosmod" ],
+    "description": "Come and play in the grimdark woods...",
+    "category": "content",
+    "dependencies": [ "bn" ],
+    "version": "0.1",
+  }
+]
